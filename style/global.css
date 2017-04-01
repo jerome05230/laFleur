@@ -1,0 +1,83 @@
+@charset "utf-8";
+body {
+background-color : #77aadd;
+background-repeat : repeat-x;
+padding : 0.6em;
+font-family : "Trebuchet MS", Verdana, Geneva, Arial, Helvetica, sans-serif;
+font-size : 0.8em;
+width : 65%;
+margin : auto;
+}
+h1 {
+background-color : #ffffff;
+padding : 0.5em;
+}
+h2, h3, h4, h5, h6 {
+margin-bottom : 0.5em;
+}
+.logoValidW3c {
+display : inline;
+}
+#libValidW3c {
+display : inline;
+vertical-align : middle;
+}
+a {
+color : rgb(0, 85, 227);
+display : block;
+text-decoration : none;
+width : 100%;
+}
+a:hover {
+background : rgb(0, 85, 227);
+color : white;
+}
+#entete #logoGSB {
+float : left;
+width : 238px;
+height : 152px;
+}
+#fond {
+clear : both;
+padding : 1em;
+background-color : #ffffff;
+}
+#menu {
+clear : both;
+float : left;
+width : 19.5%;
+padding : 1em;
+background-color : #ffffff;
+}
+#haut {
+clear : both;
+padding : 1em;
+background-color : #ffffff;
+}
+#centre {
+margin : 0 0 0 23%;
+padding : 1em;
+background-color : #ffffff;
+}
+#bas {
+clear : both;
+padding : 1em;
+background-color : #ffffff;
+}
+label {
+float : left;
+width : 250px;
+text-align : left;
+}
+input {
+margin-bottom : 2px;
+}
+table, tr, td, th {
+border-collapse : collapse;
+border : 1px solid black;
+}
+div.bordure {
+border-bottom : 1px solid black;
+}
+
+
